@@ -1,4 +1,4 @@
-In this project, let's build a **Digital Timer App** by applying the concepts we have learned till now.
+# [Digital Timer](https://sspdigitaltimer.ccbp.tech/)
 
 ### Refer to the image below:
 
